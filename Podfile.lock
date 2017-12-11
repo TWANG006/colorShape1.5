@@ -1,0 +1,15 @@
+PODS:
+  - Canvas (0.1.2)
+  - PCLBlurEffectAlert (1.1.0)
+
+DEPENDENCIES:
+  - Canvas
+  - PCLBlurEffectAlert
+
+SPEC CHECKSUMS:
+  Canvas: eb861e3b555d032648146c8ffda1a5dea40059ca
+  PCLBlurEffectAlert: cf9fe1d142dad012fe806b96844e2cf72e0bd366
+
+PODFILE CHECKSUM: ab6e6ca9a6f01cc16452c4d6ccabf0353ee4a892
+
+COCOAPODS: 1.1.1
